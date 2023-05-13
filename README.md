@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Java | Back-end | Sistema Hotel
 
 <p align="center" >
